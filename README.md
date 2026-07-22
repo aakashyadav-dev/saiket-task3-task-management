@@ -172,9 +172,9 @@ Accessibility enhancements
 # 👨‍💻 Author
 TaskFlow Team
 
-GitHub: @yourusername
+GitHub: Aakashyadav-dev
 
-Email: your.email@example.com
+Email: aakashyadav1337@gmail.com
 
 # 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
