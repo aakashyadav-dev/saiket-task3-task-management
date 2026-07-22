@@ -32,6 +32,7 @@ A modern, production-ready task management application built with React.js, feat
 - **Local Storage** - Data Persistence
 
 ## 📁 Folder Structure
+```
 task-management-app/
 ├── src/
 │ ├── components/
@@ -54,8 +55,8 @@ task-management-app/
 ├── vite.config.js
 ├── tailwind.config.js
 └── README.md
+```
 
-text
 
 ## 🚦 Installation & Setup
 
